@@ -1,17 +1,14 @@
 # Hey There, I'm Devon!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 I'm diving into backend development with Python and JavaScript, while exploring the foundations of cybersecurity. This GitHub is my learning lab—expect beginner projects, experiments, and steady progress. Always open to tips, collabs, and coding friends.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To grow as a backend developer while building a strong foundation in cybersecurity, contributing to real-world projects, and connecting with a supportive tech community.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Skills
+[Provide skills and associated project. Make sure to hyperlink the project]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
