@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm diving into backend development with Python and JavaScript, while exploring the foundations of cybersecurity. This GitHub is my learning lab—expect beginner projects, experiments, and steady progress. Always open to tips, collabs, and coding friends.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
